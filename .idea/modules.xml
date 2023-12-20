@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sustc-main.iml" filepath="$PROJECT_DIR$/.idea/sustc-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sustc-api/sustc.sustc-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sustc-api/sustc.sustc-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sustc-runner/sustc.sustc-runner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sustc-runner/sustc.sustc-runner.main.iml" />
+    </modules>
+  </component>
+</project>
